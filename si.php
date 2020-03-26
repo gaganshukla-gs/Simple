@@ -18,15 +18,12 @@ body{
 		border: 2px solid #000000;
 		border-width:5px;
 		
-		margin-left:310px;
-		margin-right:350px;
+		margin-left:500px;
+		margin-right:180px;
 		margin-top:115px;
 		text-align:center;
 	    height:500;
-		background-image:url('download.jpeg');
-		background-repeat:no-repeat;
-		background-position:50% 25%;
-		background-size: 1400px 500px;
+		
 		
 }
      form	
@@ -117,7 +114,7 @@ frame{
 
 
 <?php
-			
+		/*	
 			
 			$user='root';
 			$pass='';
@@ -167,7 +164,7 @@ frame{
 			
 		
 					$con->close();
-							
+							*/
 					
 					
 			
