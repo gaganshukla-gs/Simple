@@ -18,7 +18,7 @@ body{
 		border: 2px solid #000000;
 		border-width:5px;
 		
-		margin-left:500px;
+		margin-left:250px;
 		margin-right:180px;
 		margin-top:115px;
 		text-align:center;
